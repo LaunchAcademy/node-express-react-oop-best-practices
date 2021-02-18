@@ -8,7 +8,7 @@ class SpotifyClient {
     return "https://api.spotify.com"
   }
 
-  static searchTracks(query){
+  static async searchTracks(query){
     const baseUrl = this.constructor.baseUrl
 
     const queryPath = "/v1/search"

@@ -11,7 +11,6 @@ cd server
 
 createdb sweet-tunes_development
 yarn migrate:latest
-
 ```
 
 ### Additional Example: Object Composition and Scraping Trending Git Repos
@@ -25,3 +24,8 @@ To scrape the latest rending repos:
 cd server
 yarn scraper:trendingGitRepos
 ```
+
+## Notes 
+- the app 
+- cleaning up our fetches
+- the api call 
