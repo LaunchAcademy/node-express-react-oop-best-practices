@@ -1,0 +1,164 @@
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=I+was+an+eagle&type=track&market=US&offset=0&limit=2",
+    "items": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+              },
+              "href": "https://api.spotify.com/v1/artists/7B2edU3Q7btJoNsoHCNohM",
+              "id": "7B2edU3Q7btJoNsoHCNohM",
+              "name": "Laura Marling",
+              "type": "artist",
+              "uri": "spotify:artist:7B2edU3Q7btJoNsoHCNohM"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2sys0w1WpiB1k6ZhfYCbBY"
+          },
+          "href": "https://api.spotify.com/v1/albums/2sys0w1WpiB1k6ZhfYCbBY",
+          "id": "2sys0w1WpiB1k6ZhfYCbBY",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737a09b8f9f2e8fdb4173370d9",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e027a09b8f9f2e8fdb4173370d9",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048517a09b8f9f2e8fdb4173370d9",
+              "width": 64
+            }
+          ],
+          "name": "Once I Was An Eagle",
+          "release_date": "2013-05-28",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:2sys0w1WpiB1k6ZhfYCbBY"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+            },
+            "href": "https://api.spotify.com/v1/artists/7B2edU3Q7btJoNsoHCNohM",
+            "id": "7B2edU3Q7btJoNsoHCNohM",
+            "name": "Laura Marling",
+            "type": "artist",
+            "uri": "spotify:artist:7B2edU3Q7btJoNsoHCNohM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 261680,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71301735"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12ijs3jaNCRZOAwPBrJYwd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/12ijs3jaNCRZOAwPBrJYwd",
+        "id": "12ijs3jaNCRZOAwPBrJYwd",
+        "is_local": false,
+        "is_playable": true,
+        "name": "I Was An Eagle",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/ad34b6e039d039d4fdd05512427943beb1240b69?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:12ijs3jaNCRZOAwPBrJYwd"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+              "id": "3JsMj0DEzyWc0VDlHuy9Bx",
+              "name": "Supertramp",
+              "type": "artist",
+              "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5Fliz4RQcDktb93l1uYDka"
+          },
+          "href": "https://api.spotify.com/v1/albums/5Fliz4RQcDktb93l1uYDka",
+          "id": "5Fliz4RQcDktb93l1uYDka",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273816e8b3e3e4b8fd048e8c55d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02816e8b3e3e4b8fd048e8c55d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851816e8b3e3e4b8fd048e8c55d",
+              "width": 64
+            }
+          ],
+          "name": "Crisis? What Crisis?",
+          "release_date": "1975-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:5Fliz4RQcDktb93l1uYDka"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JsMj0DEzyWc0VDlHuy9Bx",
+            "id": "3JsMj0DEzyWc0VDlHuy9Bx",
+            "name": "Supertramp",
+            "type": "artist",
+            "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 315773,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAM17574635"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fT8PIWAZuJkHGrLWK4kJF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7fT8PIWAZuJkHGrLWK4kJF",
+        "id": "7fT8PIWAZuJkHGrLWK4kJF",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Sister Moonshine",
+        "popularity": 42,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7fT8PIWAZuJkHGrLWK4kJF"
+      }
+    ],
+    "limit": 2,
+    "next": "https://api.spotify.com/v1/search?query=I+was+an+eagle&type=track&market=US&offset=2&limit=2",
+    "offset": 0,
+    "previous": null,
+    "total": 70
+  }
+}
